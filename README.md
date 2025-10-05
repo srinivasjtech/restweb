@@ -119,6 +119,54 @@ menu.html
                 <p>Delicious noodles and rice varieties.</p>
                 <span class="price">₹160</span>
             </div>
+            <div class="menu-item">
+                <img src="chickenfry.png" alt="Chicken Fry">
+                <h3>Chicken Fry</h3>
+                <p>Crispy fried chicken with special house spices.</p>
+                <span class="price">₹180</span>
+            </div>
+            <div class="menu-item">
+                <img src="dragon.jpeg" alt="Dragon Chicken">
+                <h3>Dragon Chicken</h3>
+                <p>Spicy Indo-Chinese chicken tossed with peppers and sauce.</p>
+                <span class="price">₹190</span>
+            </div>
+            <div class="menu-item">
+                <img src="lollipop.png" alt="Chicken Lollipop">
+                <h3>Chicken Lollipop</h3>
+                <p>Delicious noodles and rice varieties.</p>
+                <span class="price">₹160</span>
+            </div>
+            <div class="menu-item">
+                <img src="mushroom.png" alt="Mushroom Masala">
+                <h3>Mushroom Masala</h3>
+                <p>Fresh mushrooms cooked in a spicy, flavorful masala gravy.</p>
+                <span class="price">₹170</span>
+            </div>
+            <div class="menu-item">
+                <img src="panner.png" alt="Paneer Butter Masala">
+                <h3>Paneer Butter Masala</h3>
+                <p>Soft paneer cubes cooked in a creamy tomato gravy.</p>
+                <span class="price">₹120</span>
+            </div>
+            <div class="menu-item">
+                <img src="pannerchicken.png" alt="Paneer Chicken">
+                <h3>Paneer Chicken</h3>
+                <p>Tender chicken and paneer cubes cooked in a flavorful gravy.</p>
+                <span class="price">₹250</span>
+            </div>
+            <div class="menu-item">
+                <img src="pannerkebab.png" alt="Paneer Kebab">
+                <h3>Paneer Kebeb</h3>
+                <p>Grilled paneer cubes marinated in aromatic spices.</p>
+                <span class="price">₹190</span>
+            </div>
+            <div class="menu-item">
+                <img src="starters.png" alt="Starters">
+                <h3>Starters</h3>
+                <p>A variety of delicious appetizers to begin your meal.</p>
+                <span class="price">₹90</span>
+            </div>
         </div>
     </section>
     <footer>
@@ -126,6 +174,7 @@ menu.html
     </footer>
 </body>
 </html>
+
 
 admn.html
 
@@ -595,7 +644,7 @@ footer {
 ## OUTPUT:
 ![alt text](<Screenshot (2).png>)
 
-![alt text](<Screenshot (3).png>)
+![alt text](<Screenshot (6).png>)
 
 ![alt text](<Screenshot (4).png>)
 
