@@ -256,16 +256,19 @@ contact.html
     <div class="contact-container">
         <h2>Contact Us</h2>
         <div class="contact-info">
-            <p><b>Instagram:</b> <a href="https://www.instagram.com/sri_ni_vas____03" target="_blank">@sri_ni_vas____03</a></p>
+            <p><b>Address:</b> Sirkali, Mayiladuthurai, Tamil Nadu, India - 609110</p>
+            <p><b>Instagram:</b> <a href="https://www.instagram.com/aasife_biriyani_sirkali" target="_blank">@aasife_biriyani_sirkali</a></p>
             <p><b>Facebook:</b> Aasife_restaurant</p>
             <p><b>Phone:</b> 9876543210</p>
-        </div>
+            <p><b>Email:</b>@gmail.com</p>
+       </div>
     </div>
     <footer>
         <i>Srinivas J (25015562)</i>
     </footer>
 </body>
 </html>
+
 
 style1.css
 
@@ -648,7 +651,7 @@ footer {
 
 ![alt text](<Screenshot (4).png>)
 
-![alt text](<Screenshot (5).png>)
+![alt text](<Screenshot (8).png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
